@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(89, 241, 241);
+    background-color: #7EC8D9;
     text-align: center;  
 }
 .tudo{
-    width: 800px;
+    width: 1000px;
     margin:0 auto;			
     padding: 10px;
 }
@@ -19,45 +19,40 @@ body{
 }
 .onePageTitle{
     text-align: right;
-    font-size: 32px;
+    font-size: 40px;
     padding-top: 140px;
     padding-bottom: 50px;
     padding-left: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .text1{
     padding-top: 100px;
     text-align: center;
     text-justify: auto;
-    font-size: 30px; 
+    font-size: 35px; 
 }
 .text2{
     padding-top: 10px;
     text-align: center;
     text-justify: auto;
-    font-size: 30px; 
+    font-size: 35px; 
 }
 .text3{
     padding-top: 10px;
     text-align: center;
     text-justify: auto;
-    font-size: 30px; 
+    font-size: 35px; 
 }
 .hr{
-    width: 1130px; 
+    width: 1100px;
+    margin: auto; 
+    ;
 
 }
 
 /*ÁREA DA TABELA*/
 
-section{
-    background: white;
-    border-radius: 10px;
-    padding: 15px;
-    width: 1100px;
-    margin: auto;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.486);
-    size: 50px;
-}
+
 .textSection{
     text-align: left;
     text-justify: auto;
@@ -79,26 +74,26 @@ td{
     font-weight: normal;
     text-justify: auto;
     padding-top: 5px;
-    font-size: 20px;
+    font-size: 30px;
     padding-right: 5px;
 }
 .tableText2{
     text-align: center;
     text-justify: auto;
     padding-top: 5px;
-    font-size: 20px;
+    font-size: 30px;
 }
 .tableText3{
     text-align: center;
     text-justify: auto;
     padding-top: 5px;
-    font-size: 20px;
+    font-size: 30px;
 }
 .tableText4{
     text-align: center;
     text-justify: auto;
     padding-top: 5px;
-    font-size: 20px;
+    font-size: 30px;
 }
 .tableImg1{
     padding-left: 15px;
@@ -116,4 +111,14 @@ td{
     text-justify: auto;
     font-size: 30px;
     padding-top: 10px;
+}
+
+main {
+    background-color: rgb(89, 241, 241);
+    padding: 29px;
+    width: 1200px;
+    margin: auto;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.233);
+    border-bottom: 5px;
+    height: 1780px;
 }
